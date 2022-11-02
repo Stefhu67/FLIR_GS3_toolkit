@@ -1,0 +1,12 @@
+#Grasshopper 3 cameras
+
+Camera_parameters:
+  gain: 10 # min 0 max 47
+  exposure_time: 13000 # min 7 mac 13181
+  black_level: 10
+  gamma: 1.25
+  sharpness: 1024
+
+Experience_parameters:
+  framerate: 2 #fps
+  test_name: Test
